@@ -37,7 +37,7 @@ func MyBio() Bio {
 <!-- <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=eunoia-code&theme=react-dark" alt="eunoia-code's top langs" /></div> -->
 
 ## Contact me :telephone_receiver:
-[![Gmail Badge](https://img.shields.io/badge/-rsh.newarray@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:-rsh.newarray@gmail.com)](-rsh.newarray@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rigeldevs@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:-rsh.newarray@gmail.com)](-rigeldevs@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-hiphipArray_-1d9bf0?style=flat-roundedrectangle&logo=twitter&logoColor=white&link=https://www.instagram.com/hiphipArray_/)](https://www.twitter.com/hiphipArray_/)
 [![Linkedin Badge](https://img.shields.io/badge/-Rizaldy_Setiawan_Hasanuddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiphipArray)](https://www.linkedin.com/in/hiphipArray)
 [![Discord Badge](https://img.shields.io/badge/-Eunoia-5663F7?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/#eunoia#9735)
